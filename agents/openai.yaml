@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wait Checks"
+  short_description: "Keep active, timed wait-and-check loops running"
+  default_prompt: "Use $wait-checks to keep this turn active, wait for my requested interval, inspect real progress, and repeat until the requested scope is complete or I stop it."
